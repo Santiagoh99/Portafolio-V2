@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7fc44977.css","mappings":"AAAA,gBAGC,WACD,CAEA,MACI,YAAa,CAChB,qBACD,CAEA,QACC,QACD","sources":["css/App.css"],"sourcesContent":["html,\r\nbody,\r\n#root {\r\n\theight: 100%;\r\n}\r\n\r\n#root {\r\n    display: flex;\r\n\tflex-direction: column;\r\n}\r\n\r\n.filler {\r\n\tflex: 1;\r\n}"],"names":[],"sourceRoot":""}
